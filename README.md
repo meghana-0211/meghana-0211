@@ -26,7 +26,15 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" width="52" alt="numpy logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="40" width="52" alt="playwright logo"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" height="40" width="52" alt="puppeteer logo"/>
-</div><br><br>
+</div>
+<h5 align="center">Databases</h3>
+<div aligh="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firestore/firestore-original.svg" height="40" width="52" alt="git logo"  />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/neo4j/neo4j-original.svg" height="40" width="52" alt="git logo"  />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sql/sql-original.svg" height="40" width="52" alt="git logo"  />
+
+
+<br><br>
 <p align='center'><img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=meghana-0211&amp;layout=donut&amp;langs_count=10&theme=transparent" alt="Language Stats"></p>
 
 
