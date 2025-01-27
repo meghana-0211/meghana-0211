@@ -1,12 +1,7 @@
-  <p>Visitor count</p>
+<div align="center"  <p>Visitor count</p>
   <img src="https://profile-counter.glitch.me/meghana-0211/count.svg" alt="Visitor's Count" />
 </div>
-<br/>
-<div align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com/?user=meghana-0211&theme=light" alt="GitHub Streak" />
-  </a>
-</div>
+
  
 <h5 align="center">Languages</h3>
 <div align="center">
