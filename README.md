@@ -1,21 +1,13 @@
-<div align="center"  <p>Visitor count</p>
+<h1 align="center"> Visitor Count</h1>
+
+<div align="center" >
   <img src="https://profile-counter.glitch.me/meghana-0211/count.svg" alt="Visitor's Count" />
 </div>
 <br>
 
-<div align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com/?user=meghana-0211&theme=dark" alt="GitHub Streak" />
-  </a>
-</div>
+<h1 align="center"> Tech Stack</h1>
 <br>
 
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=meghana-0211&theme=dark&hide_border=false&include_all_commits=true&count_private=false" alt="GitHub Stats" />
-</p>
-
- 
 <h5 align="center">Languages</h3>
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" width="52" alt="python logo"  />
@@ -53,5 +45,23 @@
 
 <br><br>
 <p align='center'><img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=meghana-0211&amp;layout=donut&amp;langs_count=10&theme=transparent" alt="Language Stats"></p>
+<br>
+
+
+<h1 align="center"> Github Stats </h1>
+<div align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com/?user=meghana-0211&theme=dark" alt="GitHub Streak" />
+  </a>
+</div>
+<br>
+
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=meghana-0211&theme=dark&hide_border=false&include_all_commits=true&count_private=false" alt="GitHub Stats" />
+</p>
+
+ 
+
 
 
